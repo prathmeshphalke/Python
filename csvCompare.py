@@ -216,5 +216,5 @@ def basic_compare_runner(file1, file2):
 	print('the total number of matched rows is ' +str(matchCounter))
 	print('the percent of rows matched is ' + str(100 * float(matchCounter)/float(len(count))) + '%')
 
-basic_compare_runner('C:\\Users\\pphalke\\OneDrive - Corporate Technologies Inc\\Documents\\HBP\\New\\AVALARA_EBS_2019-05.csv', 
-	'C:\\Users\\pphalke\\OneDrive - Corporate Technologies Inc\\Documents\\HBP\\Old\\AVALARA_EBS_2019-05.csv')
+basic_compare_runner('C:\\Users\\pphalke\\Documents\\HBP\\New\\AVALARA_EBS_2019-05.csv', 
+	'C:\\Users\\pphalke\\Documents\\HBP\\Old\\AVALARA_EBS_2019-05.csv')
