@@ -1,6 +1,6 @@
 """
-This code is intended for the use of CTI 
-Author: Chris Hammer
+
+Author: Prathmesh Phalke
 Version: 2.4
 Created on: 04/22/2019
 Last Updated: 05/25/2019
