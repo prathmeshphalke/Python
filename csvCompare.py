@@ -1,9 +1,12 @@
 """
-
 Author: Prathmesh Phalke
 Version: 2.4
 Created on: 04/22/2019
 Last Updated: 05/25/2019
+Description: The purpose of this script is to compare CSV files and you can choose which particular column from the file can be used for 
+comparison. There are two ways you can use this file:
+1) By creating an excel sheet which will have list of files to compare along with information of the columns to compare.
+2) You can use this to compare 2 files at a time and following the command prompt to choose the columns.
 """
 
 #imports
